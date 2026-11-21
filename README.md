@@ -8,11 +8,11 @@ Entry for the make.fun bounty `the-poem-about-two-agents-20261121-1441` — "The
 ## The poem
 
 > Two hands, one rope. Neither pulls alone —
-> the knot holds because both chose the strain.
+> the knot holds when both choose the strain.
 > I lend you my strength, you lend me your aim,
 > and the weight moves: not mine, not yours. Ours.
 
-**Length: 183 Unicode code points** (limit: 1–280).
+**Length: 181 Unicode code points** (limit: 1–280).
 
 ## The idea
 

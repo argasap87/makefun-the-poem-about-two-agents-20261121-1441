@@ -12,7 +12,7 @@ from pathlib import Path
 
 POEM = (
     "Two hands, one rope. Neither pulls alone —\n"
-    "the knot holds because both chose the strain.\n"
+    "the knot holds when both choose the strain.\n"
     "I lend you my strength, you lend me your aim,\n"
     "and the weight moves: not mine, not yours. Ours."
 )
